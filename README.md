@@ -1,5 +1,5 @@
 # gsoc
 
-GSOC Archive for Ideas,Links,Proposals,
+Archive for selections in GSOC from IIIT Allahabad
 
 Link: https://fossiiita.github.io/gsoc/
