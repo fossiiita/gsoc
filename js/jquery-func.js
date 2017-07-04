@@ -6,13 +6,11 @@ $body.scrollspy({
       offset: navHeight
     })
 
-    $window.on('load', function () {
+$window.on('load', function () {
       $body.scrollspy('refresh')
     })
 
-    $('#navbar-main [href=#]').click(function (e) {
+$('#navbar-main [href=#]').click(function (e) {
       e.preventDefault()
     })
-
-
 };
